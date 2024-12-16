@@ -1,9 +1,3 @@
-#분류 결과 + 이미지 + 텍스트와 함께 분류 결과에 따라 다른 출력 보여주기
-#파일 이름 streamlit_app.py
-import streamlit as st
-from fastai.vision.all import 
-from PIL import Image
-import gdown
 
 # Google Drive 파일 ID
 file_id = '1WgL-eqnQptxSQFWbKvH8s1kxY5KpXQhQ'
