@@ -6,7 +6,7 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID
-file_id = '1mDGL31P0TXQk2tZRlZDEIvkxg3yDPH-6'
+file_id = '1WgL-eqnQptxSQFWbKvH8s1kxY5KpXQhQ'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
@@ -88,7 +88,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "0393 팽도리 : 자존심이 강해서 사람에게 먹이를 얻는 것을 싫어한다. 긴 솜털이 추위를 막는다.",
+            "0025 피카츄 : 뺨의 양쪽에 작은 전기 주머니가 있다. 위기 상황일 때 방전한다.",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
@@ -105,7 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "0183 마릴 : 꼬리 끝에는 물보다 가벼운 기름이 가득 차 있어서 물에 빠지지 않고 강을 건널 수 있다.",
+            "0172 피츄 : 아직 전기를 모으는 게 서툴다. 놀라거나 웃으면 바로 방전돼 버린다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "0007 꼬부기 : 기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.",
+            "0026 라이츄 : 전격은 10만볼트에 이르기도 해서 잘못 만지면 인도 코끼리라도 기절한다.",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
